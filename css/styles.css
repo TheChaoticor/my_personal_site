@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #40514e;
+}
+
+p {
+  line-height: 1.5;
+}
+
+h1 {
+  margin: 0;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+hr {
+  border: 6px dotted #eaf6f6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: yellow;
+}
+
+.top {
+  padding-top: 100px;
+  background-color: #e4f9f5;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.desc {
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 30px;
+  right: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 260px;
+}
+
+.middle {
+  padding: 100px 0;
+}
+
+.intro {
+  width: 33%;
+  text-align: center;
+  margin: auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  padding: 20px;
+}
+
+.sde {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.fsd {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.contact {
+  margin: 40px auto 60px;
+  width: 40%;
+  text-align: center;
+}
+
+.btn {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  background-color: #11cdd4;
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.btn:hover {
+  background-color: #30e3cb;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.bottom {
+  background-color: #66bfbf;
+  padding: 40px;
+}
