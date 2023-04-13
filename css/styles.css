@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
-  color: #40514e;
+  color: #4fa091;
 }
 
 p {
@@ -13,13 +13,13 @@ h1 {
   margin: 0;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
-  color: #66bfbf;
+  color: #d41424;
 }
 
 h2 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
-  color: #66bfbf;
+  color: #e6681f;
   padding-bottom: 10px;
 }
 
@@ -36,13 +36,13 @@ hr {
 }
 
 a {
-  color: white;
+  color: rgb(35, 230, 116);
   font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
 }
 
 a:hover {
-  color: yellow;
+  color: rgb(89, 0, 255);
 }
 
 .top {
@@ -101,6 +101,7 @@ a:hover {
 .contact {
   margin: 40px auto 60px;
   width: 40%;
+  background-color: rgb(21, 197, 138);
   text-align: center;
 }
 
@@ -118,7 +119,7 @@ a:hover {
 }
 
 .copyright {
-  color: #eaf6f6;
+  color: #5de4e4;
   font-size: 0.75rem;
   padding: 20px 0;
 }
